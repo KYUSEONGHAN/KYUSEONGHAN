@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 <div align=center>
   
 ## t e c h 👀
+[![PYTHON](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)](https://github.com/KYUSEONGHAN/Development)
