@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HANKYUSEONG%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HANKYUSEONG%20&fontSize=50)
 
 <div align=center>
   
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 [![MySQL](https://img.shields.io/badge/MySQL-F7DF1E?style=flat-square&logo=MySQL&logoColor=black)](https://github.com/KYUSEONGHAN)
 [![MongoDB](https://img.shields.io/badge/MongoDB-F7DF1E?style=flat-square&logo=MongoDB&logoColor=black)](https://github.com/KYUSEONGHAN)
-[![Amazon S3](https://img.shields.io/badge/Amazon S3-F7DF1E?style=flat-square&logo=Amazon S3&logoColor=black)](https://github.com/KYUSEONGHAN)
+[![Amazon S3](https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white)](https://github.com/KYUSEONGHAN)
   
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](https://github.com/KYUSEONGHAN)
