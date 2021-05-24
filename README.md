@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align=center>
   
 # Interest
-* hi
+** hi
   
 ## T e c h 👀
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/KYUSEONGHAN/Development)
@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-569A31?style=flat-square&logo=Amazon_AWS&logoColor=white)](https://github.com/KYUSEONGHAN)
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KYUSEONGHAN)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## M e 😊
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://github.com/KYUSEONGHAN)
@@ -45,6 +44,8 @@ Here are some ideas to get you started:
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/2021-7f1b67f9cf714d7abf18eed341d9a53a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/hankyuseong)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyty587587@gmail.com@gmail.com)](mailto:tyty587587@gmail.com)
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KYUSEONGHAN)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Today 📩
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKYUSEONGHAN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
