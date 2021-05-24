@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/hankyuseong)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyty587587@gmail.com@gmail.com)](mailto:tyty587587@gmail.com)
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KYUSEONGHAN)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 ## Today 📩
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKYUSEONGHAN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KYUSEONGHAN)](https://github.com/anuraghazra/github-readme-stats)
