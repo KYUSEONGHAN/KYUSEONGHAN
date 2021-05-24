@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## M e 😊
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://github.com/KYUSEONGHAN)
-<a href="https://velog.io/@eunjeong"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@cosmos"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-569A31?style=flat-square&logo=Amazon_AWS&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-569A31?style=flat-square&logo=Amazon_AWS&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-569A31?style=flat-square&logo=Amazon_AWS&logoColor=white)](https://github.com/KYUSEONGHAN)
