@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HANKYUSEONG%20&fontSize=50)
-
 <div align=center>
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KYUSEONGHAN)](https://github.com/anuraghazra/github-readme-stats)
+# Interest
+* hi
   
 ## T e c h 👀
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/KYUSEONGHAN/Development)
@@ -37,6 +36,8 @@ Here are some ideas to get you started:
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-569A31?style=flat-square&logo=Amazon_AWS&logoColor=white)](https://github.com/KYUSEONGHAN)
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KYUSEONGHAN)](https://github.com/anuraghazra/github-readme-stats)
 
 ## M e 😊
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://github.com/KYUSEONGHAN)
