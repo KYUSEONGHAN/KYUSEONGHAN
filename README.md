@@ -31,4 +31,4 @@ Here are some ideas to get you started:
   
 [![Docker](https://img.shields.io/badge/Docker-F7DF1E?style=flat-square&logo=Docker&logoColor=black)](https://github.com/KYUSEONGHAN)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-F7DF1E?style=flat-square&logo=Kubernetes&logoColor=black)](https://github.com/KYUSEONGHAN)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=black)](https://github.com/KYUSEONGHAN)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)](https://github.com/KYUSEONGHAN)
