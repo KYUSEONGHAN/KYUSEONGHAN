@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <div align=center>
   
 ## t e c h 👀
-[![PYTHON](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)](https://github.com/KYUSEONGHAN/Development)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-F7DF1E?style=flat-square&logo=Elasticsearch&logoColor=black)](https://github.com/KYUSEONGHAN)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-F7DF1E?style=flat-square&logo=TensorFlow&logoColor=black)](https://github.com/KYUSEONGHAN)
-[![Apache Spark](https://img.shields.io/badge/Apache Spark-F7DF1E?style=flat-square&logo=Apache Spark&logoColor=black)](https://github.com/KYUSEONGHAN)
-[![Scala](https://img.shields.io/badge/Scala-F7DF1E?style=flat-square&logo=Scala&logoColor=black)](https://github.com/KYUSEONGHAN)
+[![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/KYUSEONGHAN/Development)
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)](https://github.com/KYUSEONGHAN)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://github.com/KYUSEONGHAN)
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=Apache_Spark&logoColor=white)](https://github.com/KYUSEONGHAN)
+[![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)](https://github.com/KYUSEONGHAN)
   
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://github.com/KYUSEONGHAN)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=Amazon_S3&logoColor=white)](https://github.com/KYUSEONGHAN)
   
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://github.com/KYUSEONGHAN)
