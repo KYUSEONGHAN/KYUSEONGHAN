@@ -19,5 +19,4 @@ Here are some ideas to get you started:
   
 ## t e c h 👀
 [![PYTHON](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)](https://github.com/KYUSEONGHAN/Development)
-  
 [![ElasticSearch](https://img.shields.io/badge/ElasticSearch-F7DF1E?style=flat-square&logo=ElasticSearch&logoColor=black)](https://github.com/KYUSEONGHAN)
