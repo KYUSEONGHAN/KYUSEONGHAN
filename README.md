@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 * A supportive team player
 * Fast leaner
 
-<div align=center>
   
 ## T e c h 👀
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/KYUSEONGHAN/Development)
