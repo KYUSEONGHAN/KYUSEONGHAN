@@ -46,13 +46,14 @@ Here are some ideas to get you started:
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-569A31?style=flat-square&logo=Amazon_AWS&logoColor=white)](https://github.com/KYUSEONGHAN)
+[![Qgis](https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white)](https://github.com/KYUSEONGHAN)
 
 ## M e 😊
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://github.com/KYUSEONGHAN)
 <a href="https://velog.io/@cosmos"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/2021-7f1b67f9cf714d7abf18eed341d9a53a)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/hankyuseong)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyty587587@gmail.com@gmail.com)](mailto:tyty587587@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyty587587@gmail.com@gmail.com)](mailto:tyty587587@gmail.com)
 
 ![dog_wordcloud1](https://user-images.githubusercontent.com/82144756/116040687-4c03d180-a6a7-11eb-8858-ad6a19b1f3f3.png)
 
