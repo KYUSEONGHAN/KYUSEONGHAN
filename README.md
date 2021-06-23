@@ -21,12 +21,6 @@ Here are some ideas to get you started:
 * Optimizing DevOps tech with AL/ML
 * Data Visualization
 * Leadership, Mentoring
-
-# Strength
-* Good at adapting to new challenges
-* A supportive team player
-* Fast leaner
-
   
 ## T e c h 👀
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/KYUSEONGHAN/Development)
