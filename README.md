@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/hankyuseong)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyty587587@gmail.com@gmail.com)](mailto:tyty587587@gmail.com)
 
-![dog_wordcloud1](https://user-images.githubusercontent.com/82144756/116040687-4c03d180-a6a7-11eb-8858-ad6a19b1f3f3.png)
-
 ## Today 📩
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKYUSEONGHAN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
