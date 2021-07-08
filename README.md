@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 # Career
 * 2020 : Research Engineer -> Data Analyst
 * 2021 : Data Analyst ~ current
-
-# Interest
-* Become a full-stack developer
-* Optimizing DevOps tech with AL/ML
-* Data Visualization
-* Leadership, Mentoring
   
 ## T e c h 👀
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/KYUSEONGHAN/Development)
