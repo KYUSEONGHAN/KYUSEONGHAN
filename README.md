@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Career
+# Career (병역특례)
 * 2020 : Research Engineer -> Data Analyst
 * 2021 : Data Analyst ~ current
   
