@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Career (병역특례)
-* 2020 : Research Engineer -> Data Analyst
-* 2021 : Data Analyst ~ current
+# Career 
+* 2020 : Research Engineer -> Data Analyst (산업기능요원)
+* 2021 : Data Analyst ~ current (산업기능요원)
   
 ## T e c h 👀
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/KYUSEONGHAN/Development)
