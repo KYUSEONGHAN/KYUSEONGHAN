@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Career 
-* 2020 : Research Engineer -> Data Analyst (산업기능요원)
-* 2021 : Data Analyst ~ current (산업기능요원)
+* 2020 : Research Engineer -> Data Analyst (병역특례)
+* 2021 : Data Analyst ~ current ()
   
 ## T e c h 👀
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/KYUSEONGHAN/Development)
