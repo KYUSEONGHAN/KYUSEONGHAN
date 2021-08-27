@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Career 
-* 2020 : Research Engineer -> Data Analyst (병역특례)
+* 2020 : Research Engineer -> Data Analyst(병역특례)
 * 2021 : Data Analyst ~ current (병역특례)
   
 ## T e c h 👀
