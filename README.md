@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=Amazon_S3&logoColor=white)](https://github.com/KYUSEONGHAN)
   
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)](https://github.com/KYUSEONGHAN)
