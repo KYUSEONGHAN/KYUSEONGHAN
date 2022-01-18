@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 * 2021 : Data Analyst (병역특례)
 * 2022 : student (복학)
   
-## T e c h 👀
+# T e c h
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/KYUSEONGHAN/Development)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)](https://github.com/KYUSEONGHAN)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://github.com/KYUSEONGHAN)
