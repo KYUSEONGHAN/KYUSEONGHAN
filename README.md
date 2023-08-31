@@ -11,12 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# Career 
-* 2020 : Research Engineer -> Data Analyst (병역특례)
-* 2021 : Data Analyst (병역특례)
-* 2022 : student (복학)
-  
+-->  
 # Tech
 [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/KYUSEONGHAN/Development)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)](https://github.com/KYUSEONGHAN)
