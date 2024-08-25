@@ -7,7 +7,7 @@
 
 - 👨‍💻 주기적으로 CS, 알고리즘 풀이를 블로그에 업로드하며 기록하고 있습니다. **https://velog.io/@cosmos/posts**
 
-- 졸업작품 **https://github.com/KYUSEONGHAN/Be-Honest**
+- Toy Project **https://github.com/KYUSEONGHAN/Be-Honest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
