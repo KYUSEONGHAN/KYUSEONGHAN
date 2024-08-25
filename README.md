@@ -1,5 +1,6 @@
 <h1 align="center">안녕하세요👋,저는 KYU SEONG HAN(한규성) 입니다.</h1>
-<h3 align="center">같이 일하기 좋은 동료가 되기 위해 꾸준히 노력하고 있습니다.</h3>
+
+- 같이 일하기 좋은 동료가 되기 위해 꾸준히 노력하고 있습니다.
 
 - 🌱 모니터링과 자동화에 관심이 많습니다 **Prometheus, Grafana, ETC**
 
